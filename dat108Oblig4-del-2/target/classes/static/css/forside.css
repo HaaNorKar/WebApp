@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+fieldset {
+    border-radius: 25px;
+    width:15%; 
+    height:20%; 
+}
+
+legend {
+font-weight: bold;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
